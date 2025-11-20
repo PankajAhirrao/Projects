@@ -1,3 +1,6 @@
 # Ignore full project folders
 Employee Management System/
 Project Tracking System/
+# Ignore design documents & screenshots for Food Ordering Website
+Food Ordering Website/*.pdf
+Food Ordering Website/*.png
